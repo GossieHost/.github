@@ -2,9 +2,7 @@
 
 #### We are **Gossie**!
 
-🙋‍♀️ Gossie is a Minecraft hosting provider for large networks offering auto scaling and more!
+🙋‍♀️ Gossie is a VPS hosting offering NAT VMS at a cheap price
 
 
-👩‍💻 Useful resources - https://docs.gossie.host/
-
-🍿 Fun facts - Gossie is the name of the cat of @BasToTheMax
+👩‍💻 Useful resources - https://my.gossie.site
